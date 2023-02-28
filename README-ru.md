@@ -22,7 +22,7 @@
 Добавьте в файл composer.json  
 
     "require": {
-        "mldanshin/package-fpdf": "^1.84"
+        "mldanshin/package-fpdf": "^1.0"
     }
 
     "repositories": [

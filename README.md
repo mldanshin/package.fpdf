@@ -22,7 +22,7 @@ In the Error method, a backslash has been added before the Exception class name
 Add to the file composer.json  
 
     "require": {
-        "mldanshin/package-fpdf": "^1.84"
+        "mldanshin/package-fpdf": "^1.0"
     }
 
     "repositories": [
