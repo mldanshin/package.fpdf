@@ -1,0 +1,17 @@
+{
+    "name": "mldanshin/package-fpdf",
+    "description": "FPDF",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "http://www.fpdf.org/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {"FPDF\\": ""}
+    }
+}
